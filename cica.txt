@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Dönci
+=======
+Bandi kandur
+>>>>>>> 54dd04363b260f7d1c7440c47afc7d9cc45095c2
 Cirmos
 Marcell
